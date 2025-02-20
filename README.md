@@ -1,6 +1,6 @@
-# CHATBOT_BART
+# CHATBOT_BARD
 
-CHATBOT_BART is a Python notebook leveraging the Bard API for chatbot interactions, including question-answering and text summarization. It supports PDF extraction via PyPDF and integrates with Google Drive for seamless document processing and AI-driven responses.
+CHATBOT_BARD is a Python notebook leveraging the Bard API for chatbot interactions, including question-answering and text summarization. It supports PDF extraction via PyPDF and integrates with Google Drive for seamless document processing and AI-driven responses.
 
 ## Features
 - **Chatbot Interaction:** Uses Bard API for natural language understanding and response generation.
